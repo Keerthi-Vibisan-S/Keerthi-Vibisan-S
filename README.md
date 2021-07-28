@@ -8,9 +8,9 @@ I'm <strong>Keerthi Vibisan</strong> working on to become a <strong>Full Stack D
 
 <h2>Currently Student at 📚</h2>
     Bannari Amman Institute of Technology
-<h4>Year of Graduation 🎓</h4>
+<h3>Year of Graduation 🎓</h3>
     2024, will be my year of Graduation.
-<hr>
+
 <h2>Currently Building up my Skills on Web Development 💻</h2>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
