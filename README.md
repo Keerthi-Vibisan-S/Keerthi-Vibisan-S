@@ -1,5 +1,5 @@
 
-<center><img src="profile1.png" align="center"></center>
+<center><img src="profile.png" align="center"></center>
 <h2>Hello👋</h2>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Keerthi-Vibisan-S.Keerthi-Vibisan-S)
