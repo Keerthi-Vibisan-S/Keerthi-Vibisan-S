@@ -1,21 +1,21 @@
 ### Hello👋
 
 I'm **Keerthi Vibisan** working on to become a **FullStack Developer**
-#### Currently Studying at :books:
+### Currently Studying at :books:
     Bannari Amman Institute of Technology
-##### Year of Graduation :mortar_board:
+#### Year of Graduation :mortar_board:
     2024, will be my year of Graduation.
 ---
-#### Currently Building up my Skills on Web Development :globe_with_meridians:
+### Currently Building up my Skills on Web Development :globe_with_meridians:
 
-##### Frontend
+#### Frontend
 <ul>
 <li>HTML</li>
 <li>CSS (Bootstrap)</li>
 <li>Java Script</li>
 </ul>
 
-##### Backend
+#### Backend
 <ul>
 <li>Java</li>
 <li>Servlet</li>
@@ -23,7 +23,7 @@ I'm **Keerthi Vibisan** working on to become a **FullStack Developer**
 </ul>
 
 ---
-#### :mailbox: Reach Me
+### :mailbox: Reach Me
 
 ##### [:e-mail:Gmail](mailto:keerthivibisan.ct20@bitsathy.ac.in) / [LinkedIn](https://www.linkedin.com/in/keerthi-vibisan-s-052567210)
 
