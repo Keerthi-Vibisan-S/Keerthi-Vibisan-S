@@ -1,5 +1,5 @@
 
-<center><img src="profile.jpg" height="200px"></center>
+<center><img src="profile.jpg" height="400px" align="center"></center>
 <h2>Hello👋</h2>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Keerthi-Vibisan-S.Keerthi-Vibisan-S)
@@ -12,7 +12,7 @@ I'm <strong>Keerthi Vibisan</strong> working on to become a <strong>Full Stack D
     2024, will be my year of Graduation.
 <hr>
 <h2>Currently Building up my Skills on Web Development 💻</h2>
-<h4>Frontend</h4>
+<h3>Frontend</h3>
 <ul>
     <li>HTML</li>
     <li>CSS</li>
@@ -20,7 +20,7 @@ I'm <strong>Keerthi Vibisan</strong> working on to become a <strong>Full Stack D
     <li>Java Script</li>
 </ul>
 
-<h4>Backend</h4>
+<h3>Backend</h3>
 <ul>
     <li>JAVA</li>
     <li>Servlets</li>
