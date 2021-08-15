@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@600&display=swap');
+:root
+{
+    --Title-Font: 'Josefin Sans', sans-serif;
+    --Sub-Font: 'Josefin Slab', serif;
+}
+
+body{
+    scroll-behavior: smooth;
+}
+
+.headings{
+    font-family: var(--Title-Font);
+}
+
+.normal-txt{
+    font-family: var(--Sub-Font);
+}
+
+/*-----Side Navbar Starts-----*/
+
+.Side-Menu{
+    position: fixed;
+    top: 50%;
+    transform: translate(50%,-50%);
+}
+
+.Side-Menu-item{
+    position: relative;
+    /* border: 2px solid red;
+    border-radius: 50%; */
+}
+
+.side-bar-tip{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    /* transform: translate(50%,-50%); */
+    transform: translate(-60%,-50%);
+    right: -40px;
+    background: black;
+    color: white;
+    font-family: var(--Title-Font);
+    padding: 0.4em;
+    opacity: 0;
+}
+
+.side-bar-tip::before
+{
+    content: "";
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 40%;
+    transform: rotate(45deg); 
+    left: -5px;
+   
+}
+
+.Side-Menu-item:hover .side-bar-tip
+{
+    transform: translate(50%,-50%);
+    opacity: 1;
+    transition: all 0.3s;
+}
+
+.mobile-nav{
+    display: none;
+}
+/*-----Side Navbar End-----*/
+
+
+/*xxxxxxxxxx COMMON xxxxxxxxxx*/
+section{
+    /* background-color: black; */
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.v-100{
+    height: 100vh;
+}
+
+.m-top-10{
+    margin-top: 15vmin;
+}
+
+.column{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.hide{
+    visibility: hidden;
+}
+
+/*xxxxxxxxxx COMMON xxxxxxxxxx*/
+
+
+
+
+/*----Home Page Start----*/
+.welcome-text{
+    font-family: var(--Sub-Font);
+    font-size: 1.8rem;
+}
+
+.hero-name{
+    font-family: var(--Title-Font);
+    font-size: 3rem;
+}
+
+.job-text{
+    font-family: var(--Sub-Font);
+    font-size: 1.3rem;
+}
+
+.pop-up{
+    opacity: 0;
+    transition: all 0.3s ease;
+    display: inline;
+}
+
+.intro-Fade-in{
+    opacity: 1;
+}
+
+.scroll-down{
+    position: absolute;
+    bottom: 55px;
+    /* border: 2px solid red; */
+    /* transform: translateY(-80px) rotate(45deg); */
+}
+
+.scroll-down span{
+    width: 30px;
+    height: 30px;
+    display: block;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    transform: rotate(45deg);
+    animation: scroll 2s ease-in-out infinite;
+}
+
+.scroll-down span:nth-child(1)
+{
+    animation-delay: 0.8s;
+}
+
+.scroll-down span:nth-child(2)
+{
+    animation-delay: 1.2s;
+}
+
+@keyframes scroll{
+
+    0%{
+        opacity: 0;
+        transform: translateY(0) rotate(45deg);
+        
+    }
+
+    25%{
+        opacity: 1;
+    }
+
+    50%,100%{
+        opacity: 0;
+        transform: translateY(10px) rotate(45deg);
+    }
+}
+
+/*----Home Page End----*/
+
+/*----- Project Section Start -----*/
+.project-showcase{
+    width: 88%;
+    margin: auto;
+    /* border: 2px solid red; */
+    /* height: 100%; */
+}
+
+.project{
+    position: relative;
+}
+
+.project+.project{
+    margin-left: 3vmin;
+}
+
+.project-E-Portal{
+    width: 40%;
+}
+
+.project-image-hover{
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.project-external-links{
+    position: absolute;
+    top: 0;
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.9;
+    transform: translateY(-100%);
+}
+
+.project-image-hover:hover .project-external-links{
+    transform: translateY(0);
+    transition: 0.4s;
+}
+
+
+/*----- Project Section End -----*/
+
+
+
+
+
+
+
+@media(max-width: 710px)
+{
+    section{
+        /* background-color: black; */
+        width: auto;
+        margin: 0 auto;
+        position: relative;
+    }
+    
+    .v-100{
+        height: 94vh;
+    }
+
+
+    /*Navbar Section*/
+    .Side-Menu{
+       display: none;
+    }
+
+    .mobile-nav{
+        display: unset;
+    }
+    /*-----Hero Section Start-----*/
+    .hero-name{
+        font-size: 2rem;
+    }
+
+    .welcome-text{
+        font-size: 1.5rem;
+    }
+    
+    .job-text{
+        font-size: 1.3rem;
+    }
+
+    .scroll-down span{
+        width: 20px;
+        height: 20px;
+    }
+    /*-----Hero Section Start-----*/
+  
+    .project{
+        width: 100%;
+    }
+
+    .project+.project{
+        margin-left: unset;
+    }
+    .project + .project{
+        margin-top: 6vmin;
+    }
+}
