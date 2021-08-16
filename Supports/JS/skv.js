@@ -29,3 +29,26 @@ function intoAnimation()
         intro = null;
     }
 }
+
+
+//Content Sliding Effect
+const content = document.querySelectorAll(".ScrollSlide");
+let currentPos = window.scrollY;
+console.log(content)
+function callDistort()
+{
+    const newPos = window.scrollY;
+    const diff = newPos - currentPos;
+    const speed = diff*0.20;
+
+    content.forEach(element => {
+        element.style.transform = "skewY("+speed+"deg)";    
+    });
+    
+    currentPos = newPos;
+    window.requestAnimationFrame(callDistort);
+}
+
+callDistort();
+
+

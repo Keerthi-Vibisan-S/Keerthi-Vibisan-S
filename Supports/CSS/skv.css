@@ -107,17 +107,17 @@ section{
 /*----Home Page Start----*/
 .welcome-text{
     font-family: var(--Sub-Font);
-    font-size: 1.8rem;
+    font-size: 2rem;
 }
 
 .hero-name{
     font-family: var(--Title-Font);
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
 .job-text{
     font-family: var(--Sub-Font);
-    font-size: 1.3rem;
+    font-size: 1.6rem;
 }
 
 .pop-up{
@@ -240,7 +240,7 @@ section{
     }
     
     .v-100{
-        height: 94vh;
+        height: 93vh;
     }
 
 
@@ -251,6 +251,8 @@ section{
 
     .mobile-nav{
         display: unset;
+        width: 100%;
+        position: fixed;
     }
     /*-----Hero Section Start-----*/
     .hero-name{
