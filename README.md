@@ -6,12 +6,14 @@
 
 I'm <strong>Keerthi Vibisan</strong> working on to become a <strong>Full Stack Developer</strong>
 
+<p>My Personal Portfolio <a href = "https://keerthi-vibisan.netlify.app/" target = "_">KEERTHI VIBISAN</a></p>
+
 <h2>Currently Student at 📚</h2>
     Bannari Amman Institute of Technology
 <h3>Year of Graduation 🎓</h3>
     2024, will be my year of Graduation.
 
-<h2>Currently Building up my Skills on Web Development 💻</h2>
+<h2>My Current Skill Set 💻</h2>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 
@@ -21,11 +23,16 @@ I'm <strong>Keerthi Vibisan</strong> working on to become a <strong>Full Stack D
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
    
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
 </p>
 
 <hr>
@@ -38,7 +45,7 @@ I'm <strong>Keerthi Vibisan</strong> working on to become a <strong>Full Stack D
 </div>
 <h3>📬 Reach Me</h3>
 
-<a href="mailto:keerthivibisan.ct20@bitsathy.ac.in">![keerthivibisan.ct20@bitsathy.ac.in](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/keerthi-vibisan-s-052567210">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:keerthivibisan.ct20@bitsathy.ac.in">![keerthivibisan.ct20@bitsathy.ac.in](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/keerthi-vibisan-s-052567210">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = "https://keerthi-vibisan.netlify.app/" target = "_">![](https://img.shields.io/badge/PORTFOLIO-00A300?style=for-the-badge&logo=&-PORTFOLIO-green)</a>
 
 
 
