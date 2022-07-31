@@ -28,7 +28,7 @@ I'm <strong>Keerthi Vibisan</strong> working on to become a <strong>Full Stack D
 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring-boot" width="40" height="40"/>
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring-boot" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 
@@ -49,6 +49,9 @@ I'm <strong>Keerthi Vibisan</strong> working on to become a <strong>Full Stack D
   <b>Overall GitHub Stats</b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthi-Vibisan-S" alt="GitHub Stats" /> <br/><br/>
   </p>
+  <!-- <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keerthi-Vibisan-S&layout=compact"/>
+  </p> -->
 </div>
 <h3>📬 Reach Me</h3>
 
