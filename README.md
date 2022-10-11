@@ -8,11 +8,11 @@ I'm <strong>Keerthi Vibisan</strong> working on to become a <strong>Full Stack D
 <p>My Personal Portfolio <a href = "https://www.keerthivibisan.me/" target = "_">KEERTHI VIBISAN</a></p>
 
 <h2>📌 Checkout My Works</h2>
-1. DocsOnline [📄] - <a href="https://doc.bitsathy.ac.in/login">https://doc.bitsathy.ac.in/login</a>
+1. DocsOnline [📄] - <a href="https://doc.bitsathy.ac.in/login" target="_">https://doc.bitsathy.ac.in/login</a>
 <br/>
-2. ExpenseOnline [💹] - <a href="https://expenseonline.herokuapp.com/login">https://expenseonline.herokuapp.com/login</a>
+2. ExpenseOnline [💹] - <a href="https://expenseonline.herokuapp.com/login" target = "_">https://expenseonline.herokuapp.com/login</a>
 <br/>
-3. YaaRaa Technologies [ 🏢 Intern ] - <a href="https://yaaraa.in/">https://yaaraa.in/</a>
+3. YaaRaa Technologies [ 🏢 Intern ] - <a href="https://yaaraa.in/" target = "_">https://yaaraa.in/</a>
 <br/>
 4. HackerRank - <a href = "https://www.hackerrank.com/keerthivibisan" target = "_">https://www.hackerrank.com/keerthivibisan</a>
 
