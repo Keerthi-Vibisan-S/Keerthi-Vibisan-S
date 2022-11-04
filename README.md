@@ -1,5 +1,5 @@
 <center><img src="./profile.jpg" align="center"></center>
-<h2>Hello👋</h2>
+<h2>Hello 👋</h2>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Keerthi-Vibisan-S.Keerthi-Vibisan-S)
 
@@ -7,14 +7,14 @@ I'm <strong>Keerthi Vibisan</strong> working on to become a <strong>Full Stack D
 
 <p>My Personal Portfolio <a href = "https://www.keerthivibisan.me/" target = "_">KEERTHI VIBISAN</a></p>
 
-<h2>📌 Checkout My Works</h2>
+<!-- <h2>📌 Checkout My Works</h2>
 1. DocsOnline [📄] - <a href="https://doc.bitsathy.ac.in/login" target="_">https://doc.bitsathy.ac.in/login</a>
 <br/>
 2. ExpenseOnline [💹] - <a href="https://expenseonline.herokuapp.com/login" target = "_">https://expenseonline.herokuapp.com/login</a>
 <br/>
-3. YaaRaa Technologies [ 🏢 Intern ] - <a href="https://yaaraa.in/" target = "_">https://yaaraa.in/</a>
-<br/>
-4. HackerRank - <a href = "https://www.hackerrank.com/keerthivibisan" target = "_">https://www.hackerrank.com/keerthivibisan</a>
+3. YaaRaa Technologies [ 🏢 Intern ] - <a href="https://yaaraa.in/" target = "_">https://yaaraa.in/</a> -->
+<!-- <br/> -->
+<!-- 4. HackerRank - <a href = "https://www.hackerrank.com/keerthivibisan" target = "_">https://www.hackerrank.com/keerthivibisan</a> -->
 
 <h2>Currently Student at 📚</h2>
     Bannari Amman Institute of Technology
@@ -23,7 +23,7 @@ I'm <strong>Keerthi Vibisan</strong> working on to become a <strong>Full Stack D
 
 <h2>My Current Skill Set 💻</h2>
 <p align="center">
-  <img src = "https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,java,spring,mysql,mongodb,git,docker,kubernetes,linux&theme=light" />
+  <img src = "https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,nodejs,express,java,spring,mysql,mongodb,git,docker,kubernetes,linux&theme=light" />
 </p>
 
 <hr>
