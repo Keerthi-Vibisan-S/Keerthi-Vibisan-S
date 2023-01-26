@@ -5,7 +5,7 @@
 
 I'm <strong>Keerthi Vibisan</strong> working on to become a <strong>Full Stack Developer</strong>
 
-<p>My Personal Portfolio <a href = "https://www.keerthivibisan.me/" target = "_">KEERTHI VIBISAN</a></p>
+<p>My Personal Portfolio <a href = "https://vibisan.netlify.app/" target = "_">KEERTHI VIBISAN</a></p>
 
 <!-- <h2>📌 Checkout My Works</h2>
 1. DocsOnline [📄] - <a href="https://doc.bitsathy.ac.in/login" target="_">https://doc.bitsathy.ac.in/login</a>
@@ -23,7 +23,7 @@ I'm <strong>Keerthi Vibisan</strong> working on to become a <strong>Full Stack D
 
 <h2>My Current Skill Set 💻</h2>
 <p align="center">
-  <img src = "https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,nodejs,express,java,spring,mysql,mongodb,git,docker,kubernetes,linux&theme=light" />
+  <img src = "https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,nodejs,express,java,spring,mysql,mongodb,docker,linux,git&theme=light" />
 </p>
 
 <hr>
@@ -39,7 +39,7 @@ I'm <strong>Keerthi Vibisan</strong> working on to become a <strong>Full Stack D
 </div>
 <h3>📬 Reach Me</h3>
 
-<a href="mailto:keerthivibisan.ct20@bitsathy.ac.in">![keerthivibisan.ct20@bitsathy.ac.in](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/keerthi-vibisan-s-052567210">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = "https://www.keerthivibisan.me/" target = "_">![](https://img.shields.io/badge/PORTFOLIO-00A300?style=for-the-badge&logo=&-PORTFOLIO-green)</a>
+<a href="mailto:keerthivibisan.ct20@bitsathy.ac.in">![keerthivibisan.ct20@bitsathy.ac.in](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/keerthi-vibisan-s-052567210">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = "https://vibisan.netlify.app/" target = "_">![](https://img.shields.io/badge/PORTFOLIO-00A300?style=for-the-badge&logo=&-PORTFOLIO-green)</a>
 
 <!--
 **Keerthi-Vibisan-S/Keerthi-Vibisan-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
