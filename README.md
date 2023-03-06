@@ -39,7 +39,7 @@ I'm <strong>Keerthi Vibisan</strong>, <strong>Full Stack Developer</strong>
 </div>
 <h3>📬 Reach Me</h3>
 
-<a href="mailto:keerthivibisan.ct20@bitsathy.ac.in">![keerthivibisan.ct20@bitsathy.ac.in](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/keerthi-vibisan-s-052567210">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = "https://www.keerthivibisan.me/" target = "_">![](https://img.shields.io/badge/PORTFOLIO-00A300?style=for-the-badge&logo=&-PORTFOLIO-green)</a>
+<a href="mailto:keerthivibisan.ct20@bitsathy.ac.in">![keerthivibisan.ct20@bitsathy.ac.in](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/keerthi-vibisan-s-052567210">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = "https://www.keerthivibisan.tech/" target = "_">![](https://img.shields.io/badge/PORTFOLIO-00A300?style=for-the-badge&logo=&-PORTFOLIO-green)</a>
 
 <!--
 **Keerthi-Vibisan-S/Keerthi-Vibisan-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
