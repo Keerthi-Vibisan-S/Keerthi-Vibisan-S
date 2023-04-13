@@ -1,4 +1,4 @@
-<h2> Hi, I'm Keerthi Vibisan! <img src="https://media.giphy.com/media/j2A2EpOXQlM2gyExiF/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Keerthi Vibisan! <img src="https://media.giphy.com/media/UVkQ14VTDTI26GyXVU/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/Y0D4Bdb9MNgxHeUpbd/giphy.gif" width="230">
 <p><em>Student at <a href="https://bitsathy.ac.in">Bannari Amman Institute of Technology
 </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" />
@@ -38,15 +38,14 @@ const keerthi_vibisan = {
         },
         backEnd: {
             js: ["Node", "Express"],
+            java: ["Servlets", "Spring Boot"]
         },
         devOps: ["AWS", "Docker🐳", "Kubernetes"],
         databases: ["MySql", "mongo"]
     },
-    OperatingSystem: ["Ubuntu", "RedHat"]
+    operatingSystem: "Linux"
 };
 ```
 
----
-
 <!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> -->
-
+---
