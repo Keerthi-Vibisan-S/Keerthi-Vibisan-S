@@ -1,57 +1,52 @@
-<center><img src="./profile.jpg" align="center"></center>
-<h2>Hello 👋</h2>
+<h2> Hi, I'm Keerthi Vibisan! <img src="https://media.giphy.com/media/iiVY2sYTN1KjPn1spl/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/Y0D4Bdb9MNgxHeUpbd/giphy.gif" width="230">
+<p><em>Student at <a href="https://bitsathy.ac.in">Bannari Amman Institute of Technology
+</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" />
+</em></p>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Keerthi-Vibisan-S.Keerthi-Vibisan-S)
+[![Linkedin: keerthivibisan](https://img.shields.io/badge/-keerthivibisan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://in.linkedin.com/in/keerthivibisan/)
+![GitHub followers](https://img.shields.io/github/followers/Keerthi-Vibisan-S?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://keerthivibisan.tech/)](https://keerthivibisan.tech/)
 
-I'm <strong>Keerthi Vibisan</strong>, <strong>Full Stack Developer</strong>
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Keerthi-Vibisan-S)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg) -->
 
-<p>My Personal Portfolio <a href = "https://www.keerthivibisan.tech" target = "_">KEERTHI VIBISAN</a></p>
+<!-- ### 📫 Like to meet me?
 
-<!-- <h2>📌 Checkout My Works</h2>
-1. DocsOnline [📄] - <a href="https://doc.bitsathy.ac.in/login" target="_">https://doc.bitsathy.ac.in/login</a>
-<br/>
-2. ExpenseOnline [💹] - <a href="https://expenseonline.herokuapp.com/login" target = "_">https://expenseonline.herokuapp.com/login</a>
-<br/>
-3. YaaRaa Technologies [ 🏢 Intern ] - <a href="https://yaaraa.in/" target = "_">https://yaaraa.in/</a> -->
-<!-- <br/> -->
-<!-- 4. HackerRank - <a href = "https://www.hackerrank.com/keerthivibisan" target = "_">https://www.hackerrank.com/keerthivibisan</a> -->
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<h2>Currently Student at 📚</h2>
-    Bannari Amman Institute of Technology
-<h3>Year of Graduation 🎓</h3>
-    2024, will be my year of Graduation.
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-<h2>My Current Skill Set 💻</h2>
-<p align="center">
-  <img src = "https://skillicons.dev/icons?i=aws,c,html,css,tailwind,js,react,nodejs,java,mysql,mongodb,git,docker,linux&theme=light" />
-</p>
+👇 Hit in your console or terminal to connect with me.
 
-<hr>
-<h2>👀 Stats</h2>
-<div>
-  <p align="center">
-  <b>Overall GitHub Stats</b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthi-Vibisan-S" alt="GitHub Stats" /> <br/><br/>
-  </p>
-  <!-- <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keerthi-Vibisan-S&layout=compact"/>
-  </p> -->
-</div>
-<h3>📬 Reach Me</h3>
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)** -->
 
-<a href="mailto:keerthivibisan.ct20@bitsathy.ac.in">![keerthivibisan.ct20@bitsathy.ac.in](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/keerthi-vibisan-s-052567210">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href = "https://www.keerthivibisan.tech/" target = "_">![](https://img.shields.io/badge/PORTFOLIO-00A300?style=for-the-badge&logo=&-PORTFOLIO-green)</a>
+<!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
 
-<!--
-**Keerthi-Vibisan-S/Keerthi-Vibisan-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const keerthi_vibisan = {
+    pronouns: "He" | "Him",
+    code: ["Java", "Javascript"],
+    askMeAbout: ["web dev", "tech", "DevOps"],
+    technologies: {
+        frontend: {
+          js: ["React"],
+          css: ["Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        devOps: ["AWS", "Docker🐳", "Kubernetes"],
+        databases: ["MySql", "mongo"]
+    },
+    OperatingSystem: ["Ubuntu", "RedHat"]
+};
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> -->
+
