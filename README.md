@@ -1,4 +1,4 @@
-<h2> Hi, I'm Keerthi Vibisan! <img src="https://media.giphy.com/media/iiVY2sYTN1KjPn1spl/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Keerthi Vibisan! <img src="https://media.giphy.com/media/j2A2EpOXQlM2gyExiF/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/Y0D4Bdb9MNgxHeUpbd/giphy.gif" width="230">
 <p><em>Student at <a href="https://bitsathy.ac.in">Bannari Amman Institute of Technology
 </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" />
